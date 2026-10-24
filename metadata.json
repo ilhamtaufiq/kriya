@@ -1,0 +1,6 @@
+{
+  "name": "Kriya Studio — Ekosistem Rekayasa Digital, Enjinering & Multi-Sektor",
+  "description": "Atelier digital dan holding rekayasa: teknologi informasi & IoT, arsitektur spasial, komoditas agribisnis, serta penyewaan dan logistik terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
