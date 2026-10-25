@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" role="img" aria-labelledby="kriya-logo-title kriya-logo-desc">
+  <title id="kriya-logo-title">Kriya Studio</title>
+  <desc id="kriya-logo-desc">Bintang empat sudut di dalam lingkaran, dengan wordmark Kriya dan tagline Atelier Digital &amp; Rekayasa</desc>
+  <circle cx="80" cy="80" r="62" fill="none" stroke="#0ae3b0" stroke-width="4"/>
+  <path d="M80 38 C84 66 94 76 122 80 C94 84 84 94 80 122 C76 94 66 84 38 80 C66 76 76 66 80 38 Z" fill="#0ae3b0"/>
+  <text x="168" y="98" font-family="Syne, 'Space Grotesk', sans-serif" font-weight="700" font-size="72" letter-spacing="-1" fill="#f4ece1">Kriya<tspan fill="#0ae3b0">.</tspan></text>
+  <text x="172" y="128" font-family="'JetBrains Mono', monospace" font-size="14" letter-spacing="4" fill="#9c9689">ATELIER DIGITAL &amp; REKAYASA</text>
+</svg>
